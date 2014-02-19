@@ -1,0 +1,18 @@
+{
+  "name": "gphantom",
+  "version": "0.0.0",
+  "description": "Quick test of grunt-phantomas",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "~0.4.2",
+    "grunt-phantomas": "~0.5.2"
+  },
+  "devDependencies": {
+    "grunt-phantomas": "~0.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ralph",
+  "license": "ISC"
+}
