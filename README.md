@@ -7,6 +7,7 @@ There is a spectre haunting all of gov.uk — the spectre of performance.
 
 ```
 git clone https://github.com/roc/spectre
+cd spectre
 npm install
 grunt phantomas
 open govuk-performance/index.html
