@@ -8,6 +8,7 @@ module.exports = function(grunt) {
         options : {
           indexPath     : './govuk-performance/',
           options       : {},
+          // using gov.uk rather than www.gov.uk to show off 1000ms redirect time
           url           : 'http://gov.uk/performance',
           numberOfRuns  : 10,
           group: {
